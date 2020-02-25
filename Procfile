@@ -1,1 +1,1 @@
-web:java -jar target/codeapp.jar
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* codeapp
