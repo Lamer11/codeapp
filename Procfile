@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* codeapp
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* TestClass11
